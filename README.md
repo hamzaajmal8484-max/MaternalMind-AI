@@ -13,24 +13,8 @@
 
 **AI-Powered Emotional & Physical Wellness Support for Expecting Mothers**
 
- [📖 Documentation](#) | [🐛 Report Bug](#) | [💡 Request Feature](#)
 
 </div>
-
----
-
-## 📋 Table of Contents
-
-- [🌟 Features](#-features)
-- [🚀 Quick Start](#-quick-start)
-- [🐳 Docker Deployment](#-docker-deployment)
-- [🏗️ Architecture](#️-architecture)
-- [🔧 Development Setup](#-development-setup)
-- [📊 Project Structure](#-project-structure)
-- [✨ Future Enhancements](#-future-enhancements)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📞 Contact](#-contact)
 
 ---
 
@@ -68,7 +52,7 @@
 ### Quick Demo Access:
 ```bash
 # Clone and run locally
-git clone https://github.com/yourusername/maternalmind-ai.git
+git clone https://github.com/hamzaajmal8484/MaternalMind-AI.git
 cd maternalmind-ai
 docker-compose up
 # Visit: http://localhost:8501
@@ -364,15 +348,35 @@ copies or substantial portions of the Software.
 
 ## 📞 Contact
 
-### 🏢 Organization
-- **Website**: [maternalmind.ai](https://maternalmind.ai)
-- **Email**: contact@maternalmind.ai
-- **Twitter**: [@MaternalMindAI](https://twitter.com/MaternalMindAI)
+Here's the updated contact section for your personal project:
 
-### 👥 Team
-- **Project Lead**: [Your Name](mailto:your.email@maternalmind.ai)
-- **Technical Lead**: [Lead Developer](mailto:tech@maternalmind.ai)
-- **Support**: [support@maternalmind.ai](mailto:support@maternalmind.ai)
+## 📞 Contact
+
+### 👤 Developer
+- **Developer**: Hamza Ajmal
+- **Email**: [hamzaajmal8484@gmail.com](mailto:hamzaajmal8484@gmail.com)
+- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+
+### 📝 Project Status
+🚧 **Current Status**: Development Phase  
+📅 **Target Launch**: Coming Soon  
+💻 **Type**: FYP Project / Portfolio  
+🎯 **Goal**: Create comprehensive pregnancy wellness platform
+
+### 💬 Connect
+- **Issues & Bugs**: [GitHub Issues](https://github.com/yourusername/maternalmind-ai/issues)
+- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/maternalmind-ai/discussions)
+- **Code Contributions**: Fork & Submit PRs
+
+### 📧 Email Categories
+- **Technical Issues**: hamzaajmal8484@gmail.com
+- **Feature Suggestions**: hamzaajmal8484@gmail.com
+- **Collaboration Inquiries**: hamzaajmal8484@gmail.com
+
+---
+
+**Note**: This is currently a personal project by Hamza Ajmal. The platform is in development and not yet publicly deployed. For demonstration purposes only.
 
 ### 📊 Project Status
 ![GitHub Issues](https://img.shields.io/github/issues/hamzaajmal8484/MaternalMind-AI)
@@ -423,15 +427,6 @@ If you find this project helpful, please give it a star on GitHub!
 **For Medical Emergencies**: Contact your healthcare provider immediately or call emergency services.
 
 </div>
-
----
-
-## 📊 Statistics
-
-![GitHub repo size](https://img.shields.io/github/repo-size/hamzaajmal8484/MaternalMind-AI)
-![GitHub language count](https://img.shields.io/github/languages/count/hamzaajmal8484/MaternalMind-AI)
-![GitHub top language](https://img.shields.io/github/languages/top/hamzaajmal8484/MaternalMind-AI)
-![Lines of code](https://img.shields.io/tokei/lines/github/hamzaajmal8484/MaternalMind-AI)
 
 ---
 
