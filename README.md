@@ -360,8 +360,8 @@ copies or substantial portions of the Software.
 🎯 **Goal**: Create comprehensive pregnancy wellness platform
 
 ### 💬 Connect
-- **Issues & Bugs**: [GitHub Issues](https://github.com/yourusername/maternalmind-ai/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/maternalmind-ai/discussions)
+- **Issues & Bugs**: [GitHub Issues](https://github.com/hamzaajmal8484/MaternalMind-AI/issues)
+- **Feature Requests**: [GitHub Discussions](https://github.com/hamzaajmal8484/MaternalMind-AI/discussions)
 - **Code Contributions**: Fork & Submit PRs
 
 ### 📧 Email Categories
@@ -371,13 +371,7 @@ copies or substantial portions of the Software.
 
 ---
 
-**Note**: This is currently a personal project by Hamza Ajmal. The platform is in development and not yet publicly deployed. For demonstration purposes only.
-
-### 📊 Project Status
-![GitHub Issues](https://img.shields.io/github/issues/hamzaajmal8484/MaternalMind-AI)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/hamzaajmal8484/MaternalMind-AI)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/hamzaajmal8484/MaternalMind-AI)
-![GitHub Stars](https://img.shields.io/github/stars/hamzaajmal8484/MaternalMind-AI)
+**Note**: This is currently a FYP project by Hamza Ajmal. The platform is in development and not yet publicly deployed. For demonstration purposes only.
 
 ---
 
@@ -392,15 +386,6 @@ If you find this project helpful, please give it a star on GitHub!
 **Made with ❤️ for expecting mothers everywhere**
 
 </div>
-
----
-
-## 🔗 Useful Links
-
-
-- [🐛 Issue Tracker](https://github.com/hamzaajmal8484/MaternalMind-AI/issues)
-- [💬 Discussions](https://github.com/hamzaajmal8484/MaternalMind-AI/discussions)
-- [📦 Releases](https://github.com/hamzaajmal8484/MaternalMind-AI/releases)
 
 ---
 
