@@ -348,15 +348,10 @@ copies or substantial portions of the Software.
 
 ## 📞 Contact
 
-Here's the updated contact section for your personal project:
-
-## 📞 Contact
-
 ### 👤 Developer
 - **Developer**: Hamza Ajmal
 - **Email**: [hamzaajmal8484@gmail.com](mailto:hamzaajmal8484@gmail.com)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [@hamzaajmal8484](https://github.com/hamzaajmal8484)
 
 ### 📝 Project Status
 🚧 **Current Status**: Development Phase  
