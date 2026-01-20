@@ -1,0 +1,57 @@
+# docker-compose.yml for MaternalMind AI
+version: '3.8'
+
+services:
+  maternalmind:
+    build: .
+    image: maternalmind-ai:latest
+    container_name: maternalmind-ai
+    restart: unless-stopped
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./logs:/app/logs
+      - ./backups:/app/backups
+      # Mount your logo file
+      - ./maternalmindai.png:/app/maternalmindai.png:ro
+      # Mount database for persistence
+      - ./maternalmind.db:/app/maternalmind.db
+    environment:
+      - ENVIRONMENT=development
+      - DATABASE_URL=sqlite:///maternalmind.db
+      - SECRET_KEY=dev-secret-key-change-in-production
+      - LOG_LEVEL=INFO
+      - PYTHONPATH=/app
+      # Streamlit specific settings
+      - STREAMLIT_SERVER_MAX_UPLOAD_SIZE=10
+      - STREAMLIT_SERVER_ENABLE_CORS=true
+      - STREAMLIT_SERVER_ENABLE_XSRF_PROTECTION=true
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - maternalmind-network
+    # Resource limits
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+        reservations:
+          memory: 512M
+    # Development mode with hot reload
+    # command: streamlit run app.py --server.port=8501 --server.address=0.0.0.0 --server.runOnSave=true
+
+networks:
+  maternalmind-network:
+    driver: bridge
+
+volumes:
+  data:
+  models:
+  logs:
+  backups:

@@ -1,0 +1,39 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+plotly
+fpdf
+Pillow
+scikit-learn
+torch
+torchvision
+tensorflow
+tensorflow-io
+bcrypt
+python-dotenv
+sqlalchemy
+alembic
+python-multipart
+pydantic
+
+# Optional/Audio processing
+librosa
+soundfile
+pydub
+audio-recorder-streamlit
+
+# Database
+sqlite3
+
+# Utilities
+python-dateutil
+pyyaml
+joblib
+scipy
+
+# Development
+black
+flake8
+pytest
+pytest-cov
