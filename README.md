@@ -359,11 +359,6 @@ copies or substantial portions of the Software.
 💻 **Type**: FYP Project / Portfolio  
 🎯 **Goal**: Create comprehensive pregnancy wellness platform
 
-### 💬 Connect
-- **Issues & Bugs**: [GitHub Issues](https://github.com/hamzaajmal8484/MaternalMind-AI/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/hamzaajmal8484/MaternalMind-AI/discussions)
-- **Code Contributions**: Fork & Submit PRs
-
 ### 📧 Email Categories
 - **Technical Issues**: hamzaajmal8484@gmail.com
 - **Feature Suggestions**: hamzaajmal8484@gmail.com
